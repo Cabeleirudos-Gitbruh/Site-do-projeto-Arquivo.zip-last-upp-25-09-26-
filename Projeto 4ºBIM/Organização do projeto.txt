@@ -1,0 +1,35 @@
+Projeto – Site para a empresa
+
+Como parte do Projeto Final do 3º Ano, cada grupo deverá desenvolver um site para a empresa escolhida seguindo os critérios abaixo:
+    (1) O site deverá ser criado usando linguagem HTML e formatado usando linguagem CSS
+    (2) Recomendo o uso de Bootstrap para facilitar a formatação e também para incluir componentes
+    (3) O site pode ser estruturado em página única ou em múltiplas páginas;
+    (4) Considere usar Navbar para separar os tópicos, sejam em seções dentro de uma página única, sejam em diferentes páginas
+    (5) Considere incluir informações como histórico da empresa, características gerais, produtos, serviços prestados, equipe, entre outras informações que o grupo considerar importantes
+    (6) Considere incluir elementos do Bootstrap como Carousel, Cards, Accordion, entre outros
+    (7) O site deverá ter uma seção ou página informando quem são os integrantes do grupo e qual foi a respectiva contribuição no desenvolvimento do projeto
+    (8) O site deverá ser hospedado de forma gratuita. Para isso, considere usar plataformas como o Infinity Free, Github ou outra que o grupo preferir
+ 
+Importante!
+    // Esta atividade será considerada para a menção do 4º Bimestre.                                                                \\
+    \\ O uso de IAs ou a cópia conteúdos (exceto do site do Bootstrap), se identificado, será passível de menção ND para o projeto. //
+
+Organização:
+
+Lucas Gabriel: Programação do Site e Criação do Aplicativo
+
+Nicolas Gabriel: Programação do Site 
+Gabriel de Assis: Programação do Site
+
+Jonathan Moreira: Criação do Aplicativo
+Caio Henrique: Criação do Aplicativo
+
+Programação do Site:
+
+    (1) Página inicial
+
+    (2) Serviços
+    (3) Agendamento
+        (3.1) Produtos e método de pagamento
+    (4) FAQ e contato
+    (5) Sobre nós e história
